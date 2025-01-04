@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project implements a **Maze Solver** using **Markov Decision Processes (MDPs)**. The solver finds the optimal path in a maze by modeling it as an MDP with states, actions, transition probabilities, and rewards. The value iteration algorithm is used to calculate the optimal policy that guides the agent from the starting point to the goal.
+This project implements a **Maze Solver** using **Markov Decision Processes (MDPs)**. The solver finds the optimal path in a maze by modeling it as an MDP with states, actions, transition probabilities, and rewards. The value iteration algorithm is used to calculate the optimal policy that guides the agent from the starting point to the goal. A study of the execution time for the maze solver is also performed.
 
 ### Key Features
 - **States**: Represent each cell in the maze as open space (1) or wall (0).
